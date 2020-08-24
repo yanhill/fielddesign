@@ -1,0 +1,1 @@
+var nr = require('newton-raphson-method');

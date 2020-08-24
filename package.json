@@ -1,0 +1,16 @@
+{
+  "name": "gcnfieldmanager-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "behavior.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "newton-raphson-method": "^1.0.2",
+    "uniqid": "^5.2.0"
+  }
+}
